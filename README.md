@@ -1,5 +1,6 @@
-- 👋 Hi, I’m @hoseyjess. I am currently a High School Science Teacher transistioning to tech. 
-- 👀 I’m interested in ... Analytics, supply chain and logistics, science, nature, education, web3, and crypto.
+- 👋 Hi, I’m @hoseyjess. I am currently a High School Science Teacher transitioning to tech. 
+- 👀 I’m interested in ... analytics, supply chain and logistics, science, nature, education, web3, and crypto.
+- My Skills... Python, SQL, Tableau, Excel, Tableau Prep, Git, BigQuery.
 - 🌱 I’m currently learning ... Wrapping up a Masters in Data Analytics
 - 📫 How to reach me ... hoseyje@gmail.com
 
